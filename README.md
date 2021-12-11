@@ -5,6 +5,7 @@ Assalammualaikum Warahmatullahi Wabarakatuh
 
 ini adalah Game sederhana berbasis teks
 dibuat oleh : 
+
 	[1] Auvar Mahsa Fahlevi (2117051027)
 	
  	[2] Cindy Loria (2117051004)
