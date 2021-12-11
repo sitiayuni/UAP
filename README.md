@@ -10,7 +10,7 @@ dibuat oleh :
  	[3] Siti Ayuni
 
 format Compile & Run : 
-  	compile g++ Game UAP Kel 3.cpp -o Game UAP Kel 3 -lncurses
+  	compile g++ GameUAP_3_B.cpp -o GameUAP_3_B -lncurses
  
  Semoga game ini dapat menghibur kalian semua, enjoy!!
     Terima Kasih semuanya..
