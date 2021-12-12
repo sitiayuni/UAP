@@ -16,6 +16,7 @@ format Compile & Run :
   	g++ GameUAP_3_B.cpp -o GameUAP_3_B -lncurses
  
  Semoga game ini dapat menghibur kalian semua, enjoy!!
+    
     Terima Kasih semuanya..
 
 
