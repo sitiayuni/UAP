@@ -1,5 +1,5 @@
 # UAP
-Ini adalah Project UAP Dasar-Dasar Pemrograman
+Ini adalah Project UAP Dasar-Dasar Pemrograman Kelompok 3
 
 Assalammualaikum Warahmatullahi Wabarakatuh 
 
